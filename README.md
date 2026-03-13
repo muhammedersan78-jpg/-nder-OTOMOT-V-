@@ -112,7 +112,7 @@ padding:15px;
 </div>
 
 <div class="card">
-<h3>2025 EMİR VEREGEN</h3>
+<h3>2025 SANDERO STEPWAY</h3>
 <p>2025 Model</p>
 <p>1.270.000₺</p>
 </div>
