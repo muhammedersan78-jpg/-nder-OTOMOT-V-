@@ -100,21 +100,21 @@ padding:15px;
 <section class="products">
 
 <div class="card">
-<h3>BMW 3 Serisi</h3>
-<p>2020 Model</p>
-<p>1.200.000₺</p>
+<h3>SANDERO STEPWAY Serisi</h3>
+<p>2025 Model</p>
+<p>1.270.000₺</p>
 </div>
 
 <div class="card">
-<h3>Mercedes C200</h3>
-<p>2019 Model</p>
+<h3>2025 MODEL CLİO</h3>
+<p>2025 Model</p>
 <p>1.350.000₺</p>
 </div>
 
 <div class="card">
-<h3>Audi A4</h3>
-<p>2021 Model</p>
-<p>1.450.000₺</p>
+<h3>2025 SANDERO STEPWAY</h3>
+<p>2025 Model</p>
+<p>1.270.000₺</p>
 </div>
 
 </section>
