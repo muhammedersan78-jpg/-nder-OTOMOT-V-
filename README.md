@@ -106,7 +106,7 @@ padding:15px;
 </div>
 
 <div class="card">
-<h3>2025 MODEL CLİO</h3>
+<h3>NİHAT 
 <p>2025 Model</p>
 <p>1.350.000₺</p>
 </div>
