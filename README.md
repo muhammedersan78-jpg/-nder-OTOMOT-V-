@@ -112,7 +112,7 @@ padding:15px;
 </div>
 
 <div class="card">
-<h3>2025 ELİF ERSAN TURKCELL GLOBAL MÜDÜRÜ</h3>
+<h3>2025 ELİF ERSAN TURKCELL GLOBAL MÜSTERİ TEMSİLCİ -/C©`F MÜDÜRÜ</h3>
 <p>2025 Model</p>
 <p>1.270.000₺</p>
 </div>
