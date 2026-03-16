@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Önder Otomotiv</title>
+<title>ŞEVNUR EREN</title>
 
 <style>
 
@@ -83,8 +83,8 @@ padding:15px;
 <body>
 
 <header>
-<h1>Önder Otomotiv</h1>
-<p>Kaliteli Araç Alım Satım</p>
+<h1
+<p>DÜNYANIN EN GÜZEL KIZI ŞEVNUR EREN</p>
 </header>
 
 <nav>
@@ -93,34 +93,22 @@ padding:15px;
 
 <section class="hero">
 <h1>Hoş Geldiniz</h1>
-<p>Önder Otomotiv'de en iyi araçları bulabilirsiniz.</p>
-<a class="button" href="#">Araçları Gör</a>
+<p> ŞEVNUR EREN Bİ PRENSES BEN ONA HAYRANIM.</p>
+<a class="button" href="#"></a>
 </section>
 
 <section class="products">
 
 <div class="card">
-<h3>SANDERO STEPWAY Serisi</h3>
-<p>2025 Model</p>
-<p>1.270.000₺</p>
-</div>
+<h3>FISTIK GİBİ KIZ MÜKEMMEL</h3>
+<p></p>
 
-<div class="card">
-<h3>NİHAT 
-<p>2025 Model</p>
-<p>1.350.000₺</p>
-</div>
 
-<div class="card">
-<h3>2025 ELİF ERSAN TURKCELL GLOBAL MÜSTERİ TEMSİLCİ -/C©`F MÜDÜRÜ</h3>
-<p>2025 Model</p>
-<p>1.270.000₺</p>
-</div>
 
 </section>
 
 <footer>
-<p>© 2026 Önder Otomotiv</p>
+<p>© 2026 ŞEVNUR EREN MUQQQ</p>
 </footer>
 
 </body>
